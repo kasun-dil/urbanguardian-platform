@@ -1,73 +1,78 @@
-# Welcome to your Lovable project
+# 🚀 Freethinkers Project
 
-## Project info
+## 📌 Project Info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**Status**: ✅ Project Completed  
+**Team**: **Freethinkers**  
+**Hackathon**: **PlymHack**
 
-## How can I edit this code?
+This project was successfully designed, developed, and completed by the **Freethinkers team** as part of **PlymHack**.  
+It represents our collaborative mindset, creative problem-solving approach, and strong technical execution during the hackathon.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🛠️ Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,git,github,vscode" />
+</p>
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ⚙️ How to Edit or Run This Project
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+There are several ways of working with this project for further improvements, maintenance, or learning purposes.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 💻 Use Your Preferred IDE (Local Setup)
 
-Follow these steps:
+Make sure you have **Node.js** and **npm** installed.  
+Install using **nvm** if needed: https://github.com/nvm-sh/nvm#installing-and-updating
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Step 1: Clone the repository using the project's Git URL
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Step 2: Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Step 3: Install the necessary dependencies
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server with auto-reloading
 npm run dev
 ```
+## ✏️ Edit Files Directly on GitHub
 
-**Edit a file directly in GitHub**
+- Navigate to the desired file(s)
+- Click the **Edit** button (pencil icon) at the top right
+- Make your changes and commit them directly
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## ☁️ Use GitHub Codespaces
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Go to the main page of this repository
+- Click the **Code** button (green button)
+- Select the **Codespaces** tab
+- Click **New codespace**
+- Edit files in the browser and commit & push your changes when done
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 👥 Team – Freethinkers
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Built with passion, creativity, and teamwork by the **Freethinkers team** at **PlymHack**.  
+We believe in thinking beyond limits and building impactful solutions.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## 🚀 What’s Next?
 
-## Can I connect a custom domain to my Lovable project?
+If you want, next we can:
 
-Yes, you can!
+- Add **team member cards** with GitHub links  
+- Add **screenshots / demo section**  
+- Add a **judges-friendly “Problem → Solution → Impact” section**  
+- Customize the **tech stack icons** exactly to what you used  
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Just say the word 👊
