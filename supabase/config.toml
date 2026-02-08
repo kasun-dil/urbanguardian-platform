@@ -1,0 +1,9 @@
+project_id = "eatyvelwzqyqtvikjnhh"
+
+[functions.ai-chat]
+enabled = true
+verify_jwt = false
+
+[functions.delete-user]
+enabled = true
+verify_jwt = false
